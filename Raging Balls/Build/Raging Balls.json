@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Raging Balls.data.unityweb",
+"asmCodeUrl": "Raging Balls.asm.code.unityweb",
+"asmMemoryUrl": "Raging Balls.asm.memory.unityweb",
+"asmFrameworkUrl": "Raging Balls.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
